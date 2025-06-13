@@ -17,7 +17,7 @@ Lombok for boilerplate reduction
 -MySQL / H2 Database
 -Lombok
 -Maven
-
+```
 src/
 ├── main/
 │   ├── java/com/project/banking/
@@ -29,3 +29,4 @@ src/
 │   └── resources/
 │       └── application.properties
 └── test/
+```
